@@ -915,10 +915,14 @@ p {
 		overflow: hidden;
 		position: relative;
 	  }
-		  
+	
+	#hero{
+		background-color: #000000;
+	}
+
 	.hero-button-container{
 		position: absolute;
-		bottom:2%;
+		top:90%;
 	}
 	#bg-mobile-img {
 		border: 0;
