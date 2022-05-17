@@ -918,7 +918,7 @@ p {
 		  
 	.hero-button-container{
 		position: absolute;
-		top: 58rem;
+		bottom:2%;
 	}
 	#bg-mobile-img {
 		border: 0;
