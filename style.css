@@ -281,7 +281,6 @@ p {
 .hero-button-container{
 	position: absolute;
 	top: 50rem;
-	right: 15rem;
 }
 
 #hero::after {
@@ -917,6 +916,10 @@ p {
 		position: relative;
 	  }
 		  
+	.hero-button-container{
+		position: absolute;
+		top: 58rem;
+	}
 	#bg-mobile-img {
 		border: 0;
 		height: 100%;
